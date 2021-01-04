@@ -7,7 +7,7 @@ OS: Linux (*maybe it's okay for Windows, too 🤪 😅*)
 
 Each folder contains a completed program and a report in Russian lnguage (*каждая папка содержит программу и отчет на Русском*)
 
-## Contetnt:
+## Content:
 1. **Gaussian method** (*Метод Гаусса для решения СЛАУ*)
 2. **Seidel method, Fixed-point iteration** (*Метод Зейделя и метод простых итераций для решения СЛАУ*)
 3. **Bisection method, Secant method, Newton's method to solve nonlinear equations** (*Решение НУ методом бисекций, методом хорд и методом Ньютона*)
