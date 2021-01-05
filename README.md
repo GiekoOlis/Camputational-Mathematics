@@ -1,4 +1,4 @@
-# Camputational Mathematics (Вычислительная математика)
+# Computational Mathematics (Вычислительная математика)
 2nd year, 4th semester
 
 Language: C++
